@@ -1,0 +1,36 @@
+{
+  "name": "@jasonhk/is-null-like",
+  "description": "A simple library to determine whether the object is null-like or not.",
+  "author": "Jason Kwok <me@jasonhk.net> (https://jasonhk.net)",
+  "license": "Unlicense",
+  "version": "1.0.0",
+  "homepage": "https://github.com/JasonHK/node-is-null-like#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonHK/node-is-null-like.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JasonHK/node-is-null-like/issues"
+  },
+  "keywords": [
+    "null",
+    "undefined",
+    "null-like",
+    "undefined-like",
+    "is-null",
+    "is-undefined",
+    "is-null-like",
+    "is-undefined-like",
+    "is-null-or-undefined"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "npx teenytest test/**/*.js",
+    "prepublishOnly": "npm run test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^12.6.8",
+    "teenytest": "^5.2.0"
+  }
+}

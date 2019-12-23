@@ -1,9 +1,9 @@
 {
   "name": "@jasonhk/is-null-like",
   "description": "A simple library to determine whether the object is null-like or not.",
-  "author": "Jason Kwok <me@jasonhk.net> (https://jasonhk.net)",
+  "author": "Jason Kwok <nodejs@jasonhk.email> (https://jasonhk.net)",
   "license": "Unlicense",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "https://github.com/JasonHK/node-is-null-like#readme",
   "repository": {
     "type": "git",
